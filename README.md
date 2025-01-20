@@ -10,7 +10,7 @@
 
 I'm chemistry PhD student in [Facultad de Química, Udelar](https://www.fq.edu.uy/).
 
-My work focuses in Medicinal Inorganic Chemistry, specializing in the development of novel metal-based drugs to combat neglected tropical diseases. I employ techniques such as NMR, FTIR, and UV-Vis spectroscopy, as well as computational methods like DFT and QSAR. I've also developed custom scripts for analyzing large datasets. In my spare time, I enjoy web development.
+My work focuses in Medicinal Inorganic Chemistry, specializing in the development of potential metal-based drugs to combat neglected tropical diseases. I employ techniques such as NMR, FTIR, and UV-Vis spectroscopy, as well as computational methods like DFT and QSAR. I've also developed custom scripts for analyzing large datasets. In my spare time, I enjoy web development.
 
 ## 🚀 Skills
 
