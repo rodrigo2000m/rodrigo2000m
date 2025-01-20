@@ -25,6 +25,7 @@ My work focuses in Medicinal Inorganic Chemistry, specializing in the developmen
   [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/default.asp)
   [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/default.asp)
   [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
+  [![Bootstrap](https://img.shields.io/badge/Bootstrap-blue?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 **Backend Development:**
 
@@ -41,4 +42,9 @@ My work focuses in Medicinal Inorganic Chemistry, specializing in the developmen
   [![Apps Script](https://img.shields.io/badge/Apps%20Script-blue?style=for-the-badge&logo=google-apps&logoColor=white)](https://developers.google.com/apps-script/)
   [![Markdown](https://img.shields.io/badge/markdown-white?style=for-the-badge&logo=markdown&logoColor=black)](https://www.markdownguide.org/)
   [![LaTeX](https://img.shields.io/badge/LaTeX-orange?style=for-the-badge&logo=latex&logoColor=white)](https://www.overleaf.com/)
+
+**Text editors:**
+  
+  [![Vim](https://img.shields.io/badge/Vim-563D7C?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
+  [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
   
