@@ -20,15 +20,12 @@ My work focuses in Medicinal Inorganic Chemistry, specializing in the developmen
    [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
    [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 
-**Frontend Development:** 
+**Web Development:** 
 
   [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/default.asp)
   [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/default.asp)
   [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
   [![Bootstrap](https://img.shields.io/badge/Bootstrap-blue?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-
-**Backend Development:**
-
   [![Node.js](https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
   [![Express.js](https://img.shields.io/badge/express.js-404D59?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 
