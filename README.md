@@ -14,13 +14,13 @@ My work focuses in Medicinal Inorganic Chemistry, specializing in the developmen
 
 ## 🚀 Skills
 
-**Programming Languages:**  
+**Programming Languages**  
 
    [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
    [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
    [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 
-**Web Development:** 
+**Web Development** 
 
   [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/default.asp)
   [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/default.asp)
@@ -29,7 +29,7 @@ My work focuses in Medicinal Inorganic Chemistry, specializing in the developmen
   [![Node.js](https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
   [![Express.js](https://img.shields.io/badge/express.js-404D59?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 
-**Tools:**
+**Tools**
 
   [![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
   [![Conda](https://img.shields.io/badge/conda-314780?style=for-the-badge&logo=conda&logoColor=white)](https://docs.conda.io/en/latest/)
@@ -40,7 +40,7 @@ My work focuses in Medicinal Inorganic Chemistry, specializing in the developmen
   [![Markdown](https://img.shields.io/badge/markdown-white?style=for-the-badge&logo=markdown&logoColor=black)](https://www.markdownguide.org/)
   [![LaTeX](https://img.shields.io/badge/LaTeX-orange?style=for-the-badge&logo=latex&logoColor=white)](https://www.overleaf.com/)
 
-**Text editors:**
+**Text editors**
   
   [![Vim](https://img.shields.io/badge/Vim-563D7C?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
   [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
